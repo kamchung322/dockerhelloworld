@@ -1,3 +1,3 @@
 FROM scratch
-CMD ["/bin/echo", "hello"]
+RUN echo "Hello, I hope we are lucky"
 #CMD ["/hello"]
